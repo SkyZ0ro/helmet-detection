@@ -53,8 +53,8 @@ EOL
 
 Download pretrained models from Yandex Disk:
 
-- [Faster R-CNN Model](your-link-here)
-- [YOLOv8 Model](your-link-here)
+- [Faster R-CNN Model](https://disk.yandex.ru/d/OlZRWHGJjveg3w)
+- [YOLOv8 Model](https://disk.yandex.ru/d/tUWDWTgUlaYbVw) 
 
 Place downloaded models in `models/` directory
 ```
