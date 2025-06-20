@@ -1,0 +1,12 @@
+# Model files
+*.pt
+*.pth
+*.bin
+
+# Data files
+*.zip
+*.tar.gz
+
+# Environment files
+.env
+venv/
