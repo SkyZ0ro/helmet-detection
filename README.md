@@ -30,7 +30,7 @@ streamlit run app/streamlit_app.py
 4. Кнопка "Detect" для запуска детекции
 
 ## Пример работы
-![Пример детекции](Images/BikesHelmets1.png)
+![Пример детекции](Intro.png)
 
 - Класс 0: Without Helmet (красный)
 - Класс 1: With Helmet (зеленый)

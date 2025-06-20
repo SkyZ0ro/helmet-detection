@@ -78,11 +78,20 @@ git commit -m "Initial commit"
 git push -u origin main
 ```
 
-## 4. For Collaborators
+## 4. GitHub Repository Setup
+
+1. Create new repository on GitHub (without README/license)
+2. Set remote and push:
+```bash
+git remote add origin https://github.com/your-username/helmet-detection.git
+git push -u origin main
+```
+
+## 5. For Collaborators
 
 1. Clone repository:
 ```bash
-git clone [your-github-repo-url]
+git clone https://github.com/your-username/helmet-detection.git
 ```
 
 2. Download models from Yandex Disk
