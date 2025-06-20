@@ -11,6 +11,12 @@
   - `Models/detectron_best.pth` - Faster R-CNN (2 класса)
   - `Models/yolov8m.pt` - YOLOv8 (2 класса)
 
+Download pretrained models from Yandex Disk:
+- [Faster R-CNN Model](https://disk.yandex.ru/d/OlZRWHGJjveg3w)
+- [YOLOv8 Model](https://disk.yandex.ru/d/tUWDWTgUlaYbVw)
+
+Place downloaded models in `models/` directory
+
 ## Установка
 ```bash
 conda create -n helmet_detection python=3.10
